@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhruv
-- 👀 I’m interested in Tech, Cyber Security 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in AI,ML,Tech, Cyber Security 
+- 🌱 I’m currently learning Python, SQL and HTML
+- 💞️ I’m looking to collaborate on any Busniess Ideas
 - 📫 How to reach me dhruvpajai@gmail.com
 
 <!---
